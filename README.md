@@ -4,7 +4,6 @@
 
 
 ###### Buatlah web seperti di modul dan ubahlah tampilannya 
-> Screenshot tampilan dimasukkan dalam readme
 
 
 ![Screenshot Tugas 1](https://user-images.githubusercontent.com/99314844/193988429-ac5e27c0-8f21-40b0-9a7b-581c266b9dba.jpg)
